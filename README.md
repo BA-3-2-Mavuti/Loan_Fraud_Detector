@@ -23,7 +23,7 @@ It uses:
 /models -> saved ML models
 /notebooks -> Jupyter/Colab notebooks for testing
 /src -> source code for OCR, NLP, ML, integration
-
+ uuiggghh
 ## 👨‍💻 Team Members
 - Mpho Matseka (Project Lead)
 - Ntando Mbekwa
